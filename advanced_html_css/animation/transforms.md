@@ -21,7 +21,7 @@ Almost all elements can have the `transform` property applied to it, with the ex
 
 ### Two-Dimensional Transforms
 
-In this section, we'll go through 2D transforms with the following transform functions: `rotate`, `scale`, `skew`, and `translate`.
+In this section, we will go through 2D transforms with the following transform functions: `rotate`, `scale`, `skew`, and `translate`.
 
 #### Rotate
 
